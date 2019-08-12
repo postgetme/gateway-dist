@@ -1,0 +1,12 @@
+{
+  "apps": [
+    {
+      "name": "gateway",
+      "cwd": "/app/build",
+      "script": "/app/build/main.js",
+      "instance_var": "INSTANCE_ID",
+      "output": "/dev/null",
+      "error": "/dev/null"
+    }
+  ]
+}

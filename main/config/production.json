@@ -1,0 +1,11 @@
+{
+  "parseServer": "http://app:1337/api",
+  "parseServerAppId": "rLF3cmHizI",
+  "parseServerMasterKey": "SGBiUHGvj8",
+  "influxdb": "http://influxdb:8086/iot",
+  "superUsername": "T0WH7kMQkJ",
+  "superPassword": "bnuTVUAide",
+  "redisServer": "redis://redis",
+  "cacheMinutes": 5,
+  "debug": true
+}

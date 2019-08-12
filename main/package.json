@@ -1,0 +1,31 @@
+{
+  "name": "main",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "backpack",
+    "build": "backpack build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.5.5",
+    "body-parser": "^1.19.0",
+    "compression": "^1.7.4",
+    "config": "^3.1.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "guige-logger": "^1.0.1",
+    "lodash": "^4.17.15",
+    "lowdb": "^1.0.0",
+    "parse": "^2.4.0"
+  },
+  "devDependencies": {
+    "backpack-core": "^0.8.3",
+    "copy-webpack-plugin": "^5.0.3",
+    "webpack-node-externals": "^1.7.2"
+  }
+}
