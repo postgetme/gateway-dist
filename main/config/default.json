@@ -1,11 +1,5 @@
 {
-  "parseServer": "http://localhost:1337/api",
-  "parseServerAppId": "rLF3cmHizI",
-  "parseServerMasterKey": "SGBiUHGvj8",
-  "influxdb": "http://localhost:8086/iot",
-  "superUsername": "T0WH7kMQkJ",
-  "superPassword": "bnuTVUAide",
-  "redisServer": "redis://localhost",
-  "cacheMinutes": 5,
-  "debug": true
+  "appId": "rLF3cmHizI",
+  "masterSerialPort": "/dev/ttyS1",
+  "slaveSerialPort": "/dev/ttyS2"
 }
